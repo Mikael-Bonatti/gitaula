@@ -9,6 +9,8 @@
 - :office_worker: Stack: Java, Javascript, HTML, CSS and Oracle.
 - :books: Studing: Java, Unit Test , English and so on.
 
+<p>lorem10</p>
+
 <div align="center">
   <a href="https://github.com/NoriNam91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoriNam91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
